@@ -296,7 +296,7 @@ body{
     .left{
         position: absolute;
         left: -100%;
-        transition: all 3s ease-in;
+        transition: all 1s ease-in;
         z-index: 1;
         width: 233px;
         
